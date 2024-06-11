@@ -8,3 +8,13 @@ The Queue Management System is a set of systems developed to analyze and manage 
 Website made In full compliance of the requirement for a Website Development Course
 
 Website live @ (http://appointio.infinityfreeapp.com/)
+
+Credentials for testing:
+
+# Admin
+name: admin 
+pass: 123456789
+
+# User
+name: user
+pass: 123456789
