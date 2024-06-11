@@ -9,12 +9,12 @@ Website made In full compliance of the requirement for a Website Development Cou
 
 Website live @ (http://appointio.infinityfreeapp.com/)
 
-Credentials for testing:
+# Credentials for testing:
 
-# Admin
+Admin
 name: admin 
 pass: 123456789
 
-# User
+User
 name: user
 pass: 123456789
