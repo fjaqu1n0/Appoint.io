@@ -5,4 +5,6 @@ Online appointments provide the customers the convenience of appointment service
 
 The Queue Management System is a set of systems developed to analyze and manage the customer flow of a specific enterprise or organization. 
 
-In full compliance of the requirement for CPE107L - Software Design (Laboratory)
+Website made In full compliance of the requirement for a Website Development Course
+
+Website live @ (http://appointio.infinityfreeapp.com/)
